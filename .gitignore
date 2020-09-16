@@ -121,3 +121,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my files
+files.py
+.virtual
+virtual/
+myfile.txt
